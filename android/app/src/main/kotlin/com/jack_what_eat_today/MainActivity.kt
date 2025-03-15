@@ -1,4 +1,4 @@
-package com.henry.flutter_mvvm_riverpod
+package com.jack_what_eat_today
 
 import io.flutter.embedding.android.FlutterActivity
 

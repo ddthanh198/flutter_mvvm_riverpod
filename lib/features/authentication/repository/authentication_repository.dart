@@ -31,7 +31,7 @@ class AuthenticationRepository {
         userMetadata: {},
         aud: '',
         createdAt: '',
-        email: 'henry@google.com',
+        email: 'jack@google.com',
       ),
     ));
 
@@ -81,7 +81,7 @@ class AuthenticationRepository {
         userMetadata: {},
         aud: '',
         createdAt: '',
-        email: 'henry@apple.com',
+        email: 'jack@apple.com',
       ),
     ));
 
